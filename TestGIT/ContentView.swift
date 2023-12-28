@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Hello, everyone at GITHUB changed me - and I let them!")
             Text("Goodbye, everyone !")
             Text("Goodbye again, everyone !")
+            Text("This is fourth goodbye - nthird disappeared")
         }
         .padding()
     }
